@@ -10,7 +10,7 @@ Le projet original utilisait Vuex pour la gestion de l'état. Je l'ai modernisé
 * Pinia 3.0.4
 * Firebase 12.14.0
 
-J'ai apporté quelques modifications visuelles mineures ainsi que des améliorations UX pour offrir une expérience utilisateur plus fluide et intuitive, tout en respectant l'esprit du projet original.
+J'ai apporté quelques modifications visuelles mineures ainsi que des améliorations UX pour offrir une expérience utilisateur plus intuitive, tout en respectant l'esprit du projet original.
 
 L'objectif principal de ce projet était d'approfondir ma compréhension de l'écosystème Vue, de la gestion d'état avec Pinia et de l'intégration de Firebase dans une application moderne.
 
